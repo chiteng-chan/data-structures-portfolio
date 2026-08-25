@@ -15,4 +15,6 @@ Now is the time!
 
 ## Portfolio
 
-More coming soon!
+- [Reflections](reflections.md) 
+- [Projects](projects.md) 
+- [Debugging Journal](debugging.md)
